@@ -98,7 +98,7 @@ This will display a badge showing that you accept Wownero-currency.
 
 `[wownero-accepted-here]`
 
-![Wownero Accepted Here](/assets/images/wownero-accepted-here.png?raw=true "Wownero Accepted Here")
+![Wownero Accepted Here](https://git.wownero.com/wownero/wownerowp/raw/branch/master/assets/images/wownero-accepted-here.png "Wownero Accepted Here")
 
 ## Donations
 
